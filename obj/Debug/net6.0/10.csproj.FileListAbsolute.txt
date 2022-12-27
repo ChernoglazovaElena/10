@@ -1,0 +1,5 @@
+C:\Users\victo\Downloads\10\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\10\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\10\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\10\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+C:\Users\victo\Downloads\10\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
